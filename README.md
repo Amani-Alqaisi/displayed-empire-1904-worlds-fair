@@ -1,4 +1,4 @@
-# Displayed Empire — Updated Version with Images
+# Displayed Empire — Updated Version
 
 This is the revised version of the GitHub Pages project on the 1904 St. Louis World's Fair.
 
@@ -13,14 +13,13 @@ This is the revised version of the GitHub Pages project on the 1904 St. Louis Wo
   - Anthropology Days as staged racial science
   - public memory and reinterpretation
   - method and evidence
-- added historically relevant images directly into the site
-- added a stronger annotated source file, including image sources
+- added a stronger annotated source file
 
 ## Files
 
 - `index.html` — main website
 - `styles.css` — styling
-- `sources.md` — annotated bibliography and image links
+- `sources.md` — annotated bibliography and links
 - `checkpoint.md` — project check-in draft
 - `contribution-log.md` — editable log
 
@@ -34,7 +33,7 @@ If you already have the old version in your GitHub repo, the easiest way to upda
 
 ```bash
 git add .
-git commit -m "Add visual archive and strengthen site content"
+git commit -m "Revise website with deeper research and stronger analysis"
 git push
 ```
 

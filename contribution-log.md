@@ -1,16 +1,20 @@
 # Contribution Log
 
-## Team member 1: [Name]
-- Helped choose the final topic and narrow the project focus.
-- Found and evaluated outside sources on the 1904 World's Fair.
-- Drafted sections of the written analysis for the website.
-- Helped revise wording for clarity and accuracy.
+## Group Members
+- Amani Alqaisi
+- Anett Martinez Vazquez
 
-## Team member 2: [Name]
-- Built and edited the GitHub Pages website structure.
-- Organized the page sections, layout, and visual design.
-- Added the timeline, source page, and final formatting.
-- Reviewed the final project for readability and submission readiness.
+## Contributions
 
-## Shared work
-- Both group members discussed the argument, selected the strongest sources, and reviewed the final version before submission.
+### Amani Alqaisi
+- Built and updated the GitHub repository and GitHub Pages website
+- Edited and organized the website structure, HTML, CSS, and deployment files
+- Revised the written content for clarity, depth, and tone
+- Added and integrated the historical image sections into the site
+- Organized the source file and prepared the project for submission
+
+### Anett Martinez Vazquez
+- Contributed to research and source gathering
+- Helped identify relevant historical examples and themes for the project
+- Reviewed project content and supported revisions to the site’s historical focus
+- Contributed to the overall project development and final direction
