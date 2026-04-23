@@ -1,8 +1,8 @@
 # Annotated Sources for *Displayed Empire*
 
-This file lists the main sources used to revise the site into a deeper research project. The first group includes the most important sources for the argument itself.
+This file lists the main sources used to deepen the site and the image sources used to make the project more visual. The first group includes the most important sources for the argument itself.
 
-## Most important sources
+## Most important written sources
 
 1. Louisiana Purchase Exposition. (1904). *Official guide to the Louisiana Purchase Exposition at the city of St. Louis, state of Missouri, April 30th to December 1st, 1904*. Official Guide Co.  
    Archive copy: https://archive.org/details/cu31924015340114  
@@ -27,7 +27,7 @@ This file lists the main sources used to revise the site into a deeper research 
    https://www.sil.si.edu/SILPublications/worlds-fairs/WF_Selected_PF.cfm?categories=Louisiana+Purchase+International+Exposition%2C+St.+Louis+1904  
    Why it matters: Helpful for fact-checking exhibit scale and for locating scholarship on the Philippines, race, and spectatorship.
 
-## Additional useful sources
+## Additional useful written sources
 
 7. Washington University Libraries. (2026). *History resources: 1904 World’s Fair and Olympics*.  
    https://libguides.wustl.edu/1904  
@@ -55,10 +55,38 @@ This file lists the main sources used to revise the site into a deeper research 
 13. Grindstaff, B. K. (1999). Creating identity: Exhibiting the Philippines at the 1904 Louisiana Purchase Exposition. *National Identities, 1*(3), 245–264.  
     Why it matters: Useful for understanding the exhibit as an identity-making project, not a neutral portrait.
 
+## Image sources used on the website
+
+These were added so the site is not just text-heavy. The images are embedded from Wikimedia Commons pages, many of which credit the Missouri History Museum or other public-domain collections.
+
+1. **Aerial View of 1904 World's Fair.** Wikimedia Commons.  
+   https://commons.wikimedia.org/wiki/File:Aerial_View_of_1904_World%27s_Fair.jpg  
+   Why it matters: Establishes the scale and visual organization of the fairgrounds.
+
+2. **View of the completed Palace of Fine Arts at the 1904 World's Fair.** Wikimedia Commons.  
+   https://commons.wikimedia.org/wiki/File:View_of_the_completed_Palace_of_Fine_Arts_at_the_1904_World%27s_Fair.jpg  
+   Why it matters: Helps show how monumental architecture reinforced the fair’s claims of progress and civilization.
+
+3. **"William Howard Taft and David R. Francis at Philippine Reservation." Department of Anthropology, 1904 World's Fair.** Wikimedia Commons.  
+   https://commons.wikimedia.org/wiki/File:%22William_Howard_Taft_and_David_R._Francis_at_Philippine_Reservation.%22_Department_of_Anthropology,_1904_World%27s_Fair.jpg  
+   Why it matters: Shows the direct relationship between political leadership and the exhibit.
+
+4. **"Igorrote Song." (Philippine Reservation in the Department of Anthropology at the 1904 World's Fair).** Wikimedia Commons.  
+   https://commons.wikimedia.org/wiki/File:%22Igorrote_Song.%22_(Philippine_Reservation_in_the_Department_of_Anthropology_at_the_1904_World%27s_Fair).jpg  
+   Why it matters: Shows how performance and spectatorship shaped the exhibit.
+
+5. **"Antonio, Chief of the Igorrotes." (Philippine Reservation, Department of Anthropology at the 1904 World's Fair).** Wikimedia Commons.  
+   https://commons.wikimedia.org/wiki/File:%22Antonio,_Chief_of_the_Igorrotes.%22_(Philippine_Reservation,_Department_of_Anthropology_at_the_1904_World%27s_Fair).jpg  
+   Why it matters: Useful for discussing how portraiture and labeling worked together within the exhibit.
+
+6. **American Indians of various tribes practicing archery at the 1904 World's Fair during the Department of Anthropology's Anthropology Days.** Wikimedia Commons.  
+   https://commons.wikimedia.org/wiki/File:American_Indians_of_various_tribes_practicing_archery_at_the_1904_World%27s_Fair_during_the_Department_of_Anthropology%27s_Anthropology_Days.jpg  
+   Why it matters: Gives a concrete image for the discussion of staged competition and racialized measurement.
+
 ## Notes for further expansion
 
 If you want to deepen the site even more later, the next best additions would be:
-- images or postcards from the Missouri Historical Society or Library of Congress
 - a short section on African American exclusion and segregation at the fair
 - a short section on deaths, illness, and climate exposure among those brought to St. Louis
 - a map overlay of the fairgrounds with the Philippine Reservation marked
+- one or two primary quotes from the Official Handbook or fair publicity language
