@@ -1,33 +1,42 @@
-# Displayed Empire
+# Displayed Empire — Updated Version
 
-A GitHub Pages website for a Signals, Data, and Equity final project.
+This is the revised version of the GitHub Pages project on the 1904 St. Louis World's Fair.
 
-## Project focus
-This site examines the 1904 St. Louis World's Fair, especially the Department of Anthropology, the Philippine Reservation, and Anthropology Days. The main argument is that the fair used public display, scientific language, and spectacle to normalize racial hierarchy and American empire.
+## What changed in this revision
+
+- removed the loosely related Delmar Divide video
+- expanded the website into a deeper research site rather than a short overview
+- made the argument more precise
+- added sections on:
+  - imperial context
+  - the Philippine Reservation as a political exhibit
+  - Anthropology Days as staged racial science
+  - public memory and reinterpretation
+  - method and evidence
+- added a stronger annotated source file
 
 ## Files
-- `index.html` — main website page
-- `styles.css` — site styling
-- `sources.md` — annotated source list with links
-- `checkpoint.md` — draft response for the project checkpoint
-- `contribution-log.md` — editable contribution log for two teammates
 
-## How to put this on GitHub Pages
-1. Create a new GitHub repository.
-2. Upload all files from this folder.
-3. Commit the files.
-4. In GitHub, open **Settings > Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select the `main` branch and `/root` folder.
-7. Save.
-8. Wait for GitHub to publish the site.
-9. Your site should appear at a URL like `https://yourusername.github.io/repository-name/`.
+- `index.html` — main website
+- `styles.css` — styling
+- `sources.md` — annotated bibliography and links
+- `checkpoint.md` — project check-in draft
+- `contribution-log.md` — editable log
 
-## Easy edits you may want to make before submitting
-- Add your names in the footer or at the top of the page.
-- Add 1–2 images if your professor likes more visual projects.
-- Replace or add a video directly about the fair if you want tighter thematic focus.
-- Trim or expand sections depending on how much text your class expects.
+## Replace the old repo contents
 
-## Recommended next step
-Before submitting, open `checkpoint.md` and `contribution-log.md` and customize the names and exact roles.
+If you already have the old version in your GitHub repo, the easiest way to update it is:
+
+1. Open your local repo folder.
+2. Replace `index.html`, `styles.css`, `sources.md`, and `README.md` with the files from this updated package.
+3. In the command line, run:
+
+```bash
+git add .
+git commit -m "Revise website with deeper research and stronger analysis"
+git push
+```
+
+## GitHub Pages
+
+Your site should still deploy automatically from the `main` branch and `/(root)`.
